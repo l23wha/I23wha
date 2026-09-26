@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm Harsh Verma, a Backend Developer and Integrated MSc Mathematics & Computing student at BIT Mesra (2027). I enjoy building scalable web applications with Java, Node.js, Express, React, and MongoDB while strengthening my problem-solving skills through competitive programming.<br><br>* 💻 Solved 1000+ DSA problems across LeetCode and Codeforces<br>* 🏆 LeetCode 1800 Rating with a 365-Day Coding Streak<br>* ⚔️ Solved 225+ problems on Codeforces<br>* 🚀 Interested in Backend Development, System Design, and Software Engineering<br>* 🌱 Currently building full-stack projects and preparing for SDE internships<br>
+
 
 
 ## 🌐 Socials:
